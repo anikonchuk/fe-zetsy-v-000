@@ -40,6 +40,7 @@ h2 {
 #zetsy-header {
 	color: rgb(141, 163, 156);
 	text-decoration: none;
+	transition: color 0.5s ease;
 }
 
 #zetsy-header:hover {
